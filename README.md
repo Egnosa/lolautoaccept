@@ -1,4 +1,5 @@
 Execute raw lolaccpt.py file or the .exe file from releases. **Your league client HAS TO BE 1280 X 720.** It is designed to be work in that resolution.
+
 *In rare occacions, if you fiddle with client too much, the wavy animation can stick to your accept button, breaking the script. If that happens simply go to any other menu in client and come back to match search.*
 
 The script will initially bring league client to front, so you dont need to do it yourself if you are going AFK, and it will locate the client window and calculate the match search and accept button locations. 
