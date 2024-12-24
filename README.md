@@ -1,4 +1,4 @@
-*For whom it may concern, I don't do github stuff, so if there are any mistakes in my way of doing things feel free to share them with me.* 
+*For whom it may concern, I don't do github stuff, so if there are any mistakes in my way of doing things feel free to share them with me. This is like a github learning test project.* 
 
 Execute lolaccpt.py file. **Your league client HAS TO BE 1280 X 720.** It is designed to be work in that resolution.
 
